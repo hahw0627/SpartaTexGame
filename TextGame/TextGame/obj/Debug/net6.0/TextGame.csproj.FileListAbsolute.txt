@@ -1,0 +1,14 @@
+C:\Users\하재무\Desktop\TextGame\TextGame\bin\Debug\net6.0\TextGame.exe
+C:\Users\하재무\Desktop\TextGame\TextGame\bin\Debug\net6.0\TextGame.deps.json
+C:\Users\하재무\Desktop\TextGame\TextGame\bin\Debug\net6.0\TextGame.runtimeconfig.json
+C:\Users\하재무\Desktop\TextGame\TextGame\bin\Debug\net6.0\TextGame.dll
+C:\Users\하재무\Desktop\TextGame\TextGame\bin\Debug\net6.0\TextGame.pdb
+C:\Users\하재무\Desktop\TextGame\TextGame\obj\Debug\net6.0\TextGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\하재무\Desktop\TextGame\TextGame\obj\Debug\net6.0\TextGame.AssemblyInfoInputs.cache
+C:\Users\하재무\Desktop\TextGame\TextGame\obj\Debug\net6.0\TextGame.AssemblyInfo.cs
+C:\Users\하재무\Desktop\TextGame\TextGame\obj\Debug\net6.0\TextGame.csproj.CoreCompileInputs.cache
+C:\Users\하재무\Desktop\TextGame\TextGame\obj\Debug\net6.0\TextGame.dll
+C:\Users\하재무\Desktop\TextGame\TextGame\obj\Debug\net6.0\refint\TextGame.dll
+C:\Users\하재무\Desktop\TextGame\TextGame\obj\Debug\net6.0\TextGame.pdb
+C:\Users\하재무\Desktop\TextGame\TextGame\obj\Debug\net6.0\TextGame.genruntimeconfig.cache
+C:\Users\하재무\Desktop\TextGame\TextGame\obj\Debug\net6.0\ref\TextGame.dll
